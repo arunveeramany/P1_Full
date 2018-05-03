@@ -16,7 +16,7 @@ VoltMaintLinSoft = 1;
 VoltMaintQuadSoft = 0;
 VoltMaintViolPen = 1e3;
 
-resLim = 3600; # STE default is 1000
+#resLim = 3600; # STE default is 1000
 
 option
   limrow = 0
