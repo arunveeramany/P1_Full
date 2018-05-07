@@ -22,7 +22,7 @@ option
   solprint = off
   nlp = ipopth # knitro, ipopt, ipopth, snopt
   mpec = knitro # knitro, nlpec: NLP reformulation of equilibrium constraints
-  reslim = 36000; # STE default is 1000 sec, this is 10 hours
+  reslim = 72000; # STE default is 1000 sec, this is 20 hours
 ;
 fullComplementarityModel.optfile = 1;
 fullModel.optfile = 1;
